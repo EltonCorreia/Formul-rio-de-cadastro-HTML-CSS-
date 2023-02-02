@@ -4,6 +4,6 @@ Formulário feito em HTML e CSS seguindo um tutorial do canal "Open Source": htt
 
 Alguns elementos fui mudando e utilizei de sites para estilizar, como cor, fonte e icons, irei deixar listado os sites que utilizei:
 
-- https://fonts.google
+- https://fonts.google.com
 - https://cssgradient.io
 - https://fontawesome.com
